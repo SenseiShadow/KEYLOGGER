@@ -1,4 +1,4 @@
-# Keylogger para Windows
+# KEYLOGGER
 
 **⚠️ ADVERTENCIA: Este software es solo para fines educativos. El uso de keyloggers sin autorización es ilegal.**
 
